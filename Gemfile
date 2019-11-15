@@ -47,7 +47,7 @@ end
 gem 'bootsnap', '>= 1.1.0', require: false
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
-gem 'rack-cors', '~> 1.0', '>= 1.0.3'
+gem 'rack-cors', '~> 1.0'
 gem 'rack-attack', '~> 6.2'
 
 gem 'devise', '~> 4.7', '>= 4.7.1'
